@@ -4,7 +4,7 @@ This API was generated with Laravel 8.12.
 
 ## Usage
 
-Building API Laravel for Angular From end for Ording system
+Building API Laravel for Angular Forntend for Ordering system
 
 ## Contributing
 
